@@ -1,1 +1,1 @@
-# AmazingNews
+# WebScraper
